@@ -7,9 +7,13 @@ If you want to purchase this tool, contact me via Telegram: [@thepythoncode97](h
 ---
 
 ## Features:
-- **Supports phone number verification across 206 countries.**
-- **Provides carrier information for valid and active phone numbers.**
-- **Fast and accurate lookup results.**
+- **Supported Country**: Supports phone number verification across 206 countries.
+- **100% Accurate Checking**: Ensure the accuracy of the phone numbers.
+- **Filter Numbers By Carrier**: Check numbers by popular carriers.
+- **Bulk Import**: Import any quantity of phone numbers for validation.
+- **TurboServer for Large Requests**: Can handle large volumes of requests smoothly.
+- **Always Active Servers**: Reliable service with minimal downtime.
+-**No Third-Party API Key Required** : Everything runs on our own infrastructure—no external services, no extra setup, no hidden dependencies.
 
 ---
 
