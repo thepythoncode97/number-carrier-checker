@@ -1,6 +1,6 @@
 # Phone Carrier Lookup
 
-![phone-carrier-lookup](https://raw.githubusercontent.com/thepythoncode97/number-carrier-checker/refs/heads/main/Phone_Number_Carrier_Lookup.png)
+![phone-carrier-lookup](https://raw.githubusercontent.com/thepythoncode97/number-carrier-checker/refs/heads/main/carrier-checker.png)
 
 If you want to purchase this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
 
