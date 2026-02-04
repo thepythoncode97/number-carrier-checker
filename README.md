@@ -17,7 +17,7 @@ if you want to purchase,
 - Supports phone number verification across 206 countries.
 - Ensure the accuracy of the phone numbers.
 - Check numbers by carriers.
-- - Check numbers by types such as mobile, fixed line, voip etc.
+- Check numbers by types such as mobile, fixed line, voip etc.
 - Import any quantity of phone numbers for validation.
 - Can handle large volumes of requests smoothly.
 - No Third-Party API Key Required.
