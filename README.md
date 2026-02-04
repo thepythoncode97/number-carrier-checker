@@ -1,19 +1,26 @@
 # Phone Carrier Lookup
 
-![phone-carrier-lookup]()
+![phone-carrier-lookup](https://raw.githubusercontent.com/thepythoncode97/number-carrier-checker/refs/heads/main/phone-number-carrier-checker.png)
 
-If you want to purchase this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+## 🤝 Get in Touch
+
+if you want to purchase,
+
+如果你想购买，
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ---
 
 ## Features:
-- **Supported Country**: Supports phone number verification across 206 countries.
-- **100% Accurate Checking**: Ensure the accuracy of the phone numbers.
-- **Filter Numbers By Carrier**: Check numbers by popular carriers.
-- **Bulk Import**: Import any quantity of phone numbers for validation.
-- **TurboServer for Large Requests**: Can handle large volumes of requests smoothly.
-- **Always Active Servers**: Reliable service with minimal downtime.
-- **No Third-Party API Key Required** : Everything runs on our own infrastructure—no external services, no extra setup, no hidden dependencies.
+- Supports phone number verification across 206 countries.
+- Ensure the accuracy of the phone numbers.
+- Check numbers by carriers.
+- - Check numbers by types such as mobile, fixed line, voip etc.
+- Import any quantity of phone numbers for validation.
+- Can handle large volumes of requests smoothly.
+- No Third-Party API Key Required.
 
 ---
 
